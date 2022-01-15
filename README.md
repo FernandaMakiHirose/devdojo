@@ -23,6 +23,6 @@ Iniciam o código que o compõe antes de tudo, ele pode ser colocado em qualquer
 - 0..* (zero ou mais)
 - apenas um asterisco (zero ou mais)
 
-Exemplo: 
-Um aluno tem 1 seminário: ```private Seminario seminario;```
+Exemplo: <br>
+Um aluno tem 1 seminário: ```private Seminario seminario;``` <br>
 Um seminário tem 1 ou mais alunos: ```private Aluno[] alunos;```
