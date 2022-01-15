@@ -27,6 +27,6 @@ Exemplo: <br>
 Um aluno tem 1 seminário: ```private Seminario seminario;``` <br>
 Um seminário tem 1 ou mais alunos: ```private Aluno[] alunos;```
 
-Relacionamentos:
-Bidirecional: Um aluno tem um seminário, um seminário tem vários alunos.
+Relacionamentos: <br>
+Bidirecional: Um aluno tem um seminário, um seminário tem vários alunos. <br>
 Unidirecional: Uma pessoa tem um endereço, um endereço não tem uma pessoa.
