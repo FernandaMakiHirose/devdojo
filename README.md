@@ -1,6 +1,6 @@
 # Meu estudo no DevDojo
 ## Resumo
-## Getters e Setters
+### Getters e Setters
 É possível adicionar regra de negócio personalizada nos setters, o encapsulamento garante melhor segurança no código). 
 
 ### Construtor
