@@ -17,11 +17,11 @@ Exemplo, se um atributo static mudar de valor, esse valor muda em todos os objet
 Iniciam o código que o compõe antes de tudo, ele pode ser colocado em qualquer parte do código, mas uma boa prática é sempre deixá-lo antes do construtor e no início do código. Para fazer um bloco de inicialização ser executado apenas uma vez o transformamos em static. 
 
 ### UML
-1 - obrigatoriamente 1
-0..1 - 0 ou 1
-1..* - um ou mais
-0..* - zero ou mais
-* - zero ou mais
+- 1 - obrigatoriamente 1
+- 0..1 - 0 ou 1
+- 1..* - um ou mais
+- 0..* - zero ou mais
+- * - zero ou mais
 
 Exemplo: 
 Um aluno tem 1 seminário: ```private Seminario seminario;```
