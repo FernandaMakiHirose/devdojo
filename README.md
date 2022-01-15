@@ -1,5 +1,9 @@
 # Meu estudo no DevDojo
 ## Resumo
+### Encapsulamento
+É a capacidade de esconder complexidade e proteger dados. trabalhamos com encapsulamento da seguinte forma: colocamos o atributo ou método desejado como privado e criamos o get e set como públicos (podemos personalizar a lógica do set) assim outras classes podem chamar os atributos ou métodos, ele evita o acesso direto a propriedade, adicionando uma camada extra de proteção.
+
+
 ### Getters e Setters
 É possível adicionar regra de negócio personalizada nos setters, o encapsulamento garante melhor segurança no código). 
 
