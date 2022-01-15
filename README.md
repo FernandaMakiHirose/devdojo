@@ -39,5 +39,4 @@ Usamos a herança para o reaproveitamento de código, A subclasse estende da sup
 
 ### Modificador final
 O modificador final representa as constantes em Java, precisam sempre ser inicializados, não apresentam getters e setters e são escritas em letra maiúscula separada por underline: ```public static final double VELOCIDADE_FINAL = 250;```.
-Métodos final nunca são sobrescritos e classes final nunca são estendidas. Para fazer a associação de uma classe que vai ser final: ```public final Comprador COMPRADOR = new Comprador();```
-
+Métodos final nunca são sobrescritos e classes final nunca são estendidas. Para fazer a associação: ```public final Comprador COMPRADOR = new Comprador();```.
