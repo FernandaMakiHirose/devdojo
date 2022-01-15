@@ -42,4 +42,4 @@ O modificador final representa as constantes em Java, precisam sempre ser inicia
 Métodos final nunca são sobrescritos e classes final nunca são estendidas. Para fazer a associação: ```public final Comprador COMPRADOR = new Comprador();```.
 
 ### Enum
-Enum é uma "classe" especial para representar um grupo de constantes, segue a regra do PastelCase, seus valores são em escritos em letra maiúscula. [Documentação](https://www.w3schools.com/java/java_enums.asp).
+Enum é uma "classe" especial para representar um grupo de constantes, segue a regra do PastelCase, seus valores são escritos em letra maiúscula. [Documentação](https://www.w3schools.com/java/java_enums.asp).
