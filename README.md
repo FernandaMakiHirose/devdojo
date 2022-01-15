@@ -21,7 +21,7 @@ Iniciam o código que o compõe antes de tudo, ele pode ser colocado em qualquer
 - 0..1 (0 ou 1)
 - 1..* (um ou mais)
 - 0..* (zero ou mais)
-* (zero ou mais)
+- * (zero ou mais)
 
 Exemplo: 
 Um aluno tem 1 seminário: ```private Seminario seminario;```
