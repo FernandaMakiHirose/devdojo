@@ -76,3 +76,25 @@ Expressão Regular ou Regular Expression, bem como a abreviação RegEx, é um m
 
 ### Resource Bundles
 Usar [resource bundles](https://www.youtube.com/watch?v=sQeG5rgwGIQ&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=97) é pensar em internacionalização, traduzir palavras para outros idiomas. [Como criar resource bundles no IntelliJ?](https://www.youtube.com/watch?v=OmeH6N4HI8U&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=98)
+
+### IO
+[Classe File](https://docs.oracle.com/javase/7/docs/api/java/io/package-summary.html) para criar arquivos.
+
+### NIO
+[Introdução as novas classes Path, Paths, Files](https://www.javatpoint.com/java-nio).
+
+### Serialização
+Quando dizemos que um objeto é [serializado](https://www.devmedia.com.br/introducao-a-serializacao-de-objetos/3050), estamos afirmando que este objeto será transformado em bytes, e poderá ser armazenado em disco ou transmitido por um stream. O stream é um objeto de transmissão de dados, onde um fluxo de dados serial é feito através de uma origem e de um destino. Neste artigo vamos descrever dois tipos de stream, o FileOutputStream e o FileInputStream para manipular objetos serializados.
+
+### Generics
+A motivação de estudar [Generics](https://www.devmedia.com.br/usando-generics-em-java/28981) em Java é de poupar o desenvolvedor de códigos redundantes, como é o caso de casting excessivo. Este foi introduzido desde o Java SE 5.0. Vamos neste artigo abordar os principais usos e especificidades de Generics, para que você leitor possa entender o funcionamento do mesmo e utilizá-lo em seus projetos com maior frequência e facilidade.
+
+### Classes internas
+Como o próprio nome diz, são [classes](https://www.devmedia.com.br/aprendendo-sobre-classes-internas/15581) que são definidas dentro de outra classe. Sendo que elas tem um relacionamento especial com sua classe externa (classe onde ela está definida), em relação as outras classes. Pelo fato de que elas podem acessar os membros privados da classe externa. O que acontece, implicitamente a classe interna tem uma instância da classe externa.
+
+### JDBC
+JDBC significa Java™ EE Database Connectivity. No desenvolvimento Java EE, esta é uma tecnologia bem conhecida e comumente utilizada para a implementação da interação do banco de dados. JDBC é uma API de nível de chamada, o que significa que as instruções SQL são transmitidas como sequências para a API que, então, se encarrega de executá-las no RDMS. Consequentemente, o valor dessas sequências pode ser alterado no tempo de execução, tornando o JDBC dinâmico. <br>
+Embora os programas JDBC sejam executados mais lentamente do que seus equivalentes SQLJ, uma vantagem dessa abordagem é um conceito conhecido como Escreva uma vez, chame em qualquer lugar. Isso significa que, como nenhuma interação é necessária até o tempo de execução, um programa JDBC é bastante móvel e pode ser levado entre diferentes sistemas, com gastos mínimos.
+
+### Threads
+[Threads](https://www.w3schools.com/java/java_threads.asp) permitem que um programa opere de forma mais eficiente fazendo várias coisas ao mesmo tempo. Os threads podem ser usados para executar tarefas complicadas em segundo plano sem interromper o programa principal.
