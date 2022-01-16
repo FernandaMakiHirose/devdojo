@@ -72,7 +72,7 @@ As [strings](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html) s�
 A maioria dos métodos da classe Date estão depreciados a partir do Java 7. Então, podemos usar o [Calendar](https://docs.oracle.com/javase/7/docs/api/java/util/Calendar.html) (mais completa e simples).
 
 ### Expressões Regulares
-Expressão Regular ou Regular Expression, bem como a abreviação RegEx, é um mecanismo poderoso utilizado para manipulação de informações baseadas em cadeias de caracteres, permitindo identificar, de maneira precisa e flexível, dados de interesse por meio de análises de padrões. A pesquisa ou análise de padrões objetiva criar recursos com a finalidade de facilitar a localização e recuperação de informações.
+[Expressão Regular](https://www.devmedia.com.br/expressoes-regulares-em-java/21712) ou Regular Expression, bem como a abreviação RegEx, é um mecanismo poderoso utilizado para manipulação de informações baseadas em cadeias de caracteres. [Conceitos básicos sobre Expressões Regulares em Java](https://www.devmedia.com.br/conceitos-basicos-sobre-expressoes-regulares-em-java/27539).
 
 ### Resource Bundles
 Usar [resource bundles](https://www.youtube.com/watch?v=sQeG5rgwGIQ&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=97) é pensar em internacionalização, traduzir palavras para outros idiomas. [Como criar resource bundles no IntelliJ?](https://www.youtube.com/watch?v=OmeH6N4HI8U&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=98)
