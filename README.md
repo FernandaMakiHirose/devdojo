@@ -3,7 +3,6 @@
 ### Encapsulamento
 É a capacidade de esconder complexidade e proteger dados. trabalhamos com encapsulamento da seguinte forma: colocamos o atributo ou método desejado como privado e criamos o get e set como públicos (podemos personalizar a lógica do set) assim outras classes podem chamar os atributos ou métodos, ele evita o acesso direto a propriedade, adicionando uma camada extra de proteção.
 
-
 ### Getters e Setters
 É possível adicionar regra de negócio personalizada nos setters, o encapsulamento garante melhor segurança no código). 
 
@@ -43,3 +42,6 @@ Métodos final nunca são sobrescritos e classes final nunca são estendidas. Pa
 
 ### Enum
 Enum é uma "classe" especial para representar um grupo de constantes, segue a regra do PastelCase, seus valores são escritos em letra maiúscula. [Documentação](https://www.w3schools.com/java/java_enums.asp).
+
+### Classes abstratas
+São classes que nunca podem ser instanciadas, se uma classe tiver um método abstrato ela vira uma classe abstrata, se você estende uma classe abstrata é necessário sobrescrever os métodos. Na UML escreva ela a classe e seus métodos em itálico ou se não for possível diga que ela é abstrata. Em classes abstratas podemos criar métodos abstratos ou métodos concretos (apresentam corpo). Se criar mais de uma classe abstrata, sendo subclasse de outra classe abstrata, a primeira classe concreta deve implementar todos os métodos abstratos que não foram implementados anteriormente.
