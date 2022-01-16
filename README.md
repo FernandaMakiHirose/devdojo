@@ -56,3 +56,6 @@ Polimorfismo Sobrecarga: a mesma operação implementada várias vezes na mesma 
 
 ## Exceptions
 As exceções ocorrem quando algo imprevisto acontece, elas podem ser provenientes de erros de lógica ou acesso a recursos que talvez não estejam disponíveis. [Tratando exceções em Java](https://www.devmedia.com.br/tratando-excecoes-em-java/25514), [Entendendo Java Exceptions](https://www.devmedia.com.br/entendendo-java-exceptions/29812).
+
+## Assertivas
+Verifica valores, caso não seja o valor esperado, lançará um erro. Com o assert, não precisamos na maioria dos casos escrever condicionais gigantes, ele deve sempre ser implementado em métodos privados. [Para habilitá-lo no IntelliJ](https://www.youtube.com/watch?v=kd8L6jS8C3Q&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=78), vá em "Run" - Editar Configurações - VM opções: -ea. 
