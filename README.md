@@ -81,7 +81,7 @@ Usar [resource bundles](https://www.youtube.com/watch?v=sQeG5rgwGIQ&list=PL62G31
 A classe [File](https://docs.oracle.com/javase/7/docs/api/java/io/package-summary.html) é usada para criar e manipular arquivos e diretórios. [Documentação](https://docs.oracle.com/javase/7/docs/api/java/io/File.html). 
 
 ### NIO
-[Introdução as novas classes Path, Paths, Files](https://www.javatpoint.com/java-nio).
+Introdução as novas classes [Path, Paths, Files](https://www.javatpoint.com/java-nio).
 
 ### Serialização
 Quando dizemos que um objeto é [serializado](https://www.devmedia.com.br/introducao-a-serializacao-de-objetos/3050), estamos afirmando que este objeto será transformado em bytes, e poderá ser armazenado em disco ou transmitido por um stream. O stream é um objeto de transmissão de dados, onde um fluxo de dados serial é feito através de uma origem e de um destino. Neste artigo vamos descrever dois tipos de stream, o FileOutputStream e o FileInputStream para manipular objetos serializados.
