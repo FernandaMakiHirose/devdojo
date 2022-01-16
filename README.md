@@ -64,3 +64,6 @@ Verifica valores, caso não seja o valor esperado, lançará um erro. Com o asse
 Se temos Wrappers porque usar os tipos primitivos? Simples, eles são mais rápidos e consomem menos memória, afinal não tem implementação de métodos ou qualquer outro algoritmo complexo que venha a consumir mais tempo da JVM.
 Unboxing Conversion: É quando deseja converter um objeto para um tipo primitivo.
 Autoboxing Conversion: É quando deseja converter um tipo primitivo para um objeto.
+
+## Strings
+As [strings](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html) são imutáveis. Entre String, String Builder e String Buffer, a mais rápida é a [String Builder](https://docs.oracle.com/javase/7/docs/api/java/lang/StringBuilder.html).
