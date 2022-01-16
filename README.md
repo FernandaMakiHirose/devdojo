@@ -53,3 +53,6 @@ Todos os métodos são públicos e abstratos, então não é necessário escreve
 É um mesmo método usado em outras classes, e com isso se comportando de forma diferente. <br>
 Polimorfismo Sobrescrita: a mesma ação, podendo se comportar diferente, com a sobrescrita podemos sobrescrever o método, usar ele e adicionar novas funcionalidades. <br>
 Polimorfismo Sobrecarga: a mesma operação implementada várias vezes na mesma classe.
+
+## Exceptions
+As exceções ocorrem quando algo imprevisto acontece, elas podem ser provenientes de erros de lógica ou acesso a recursos que talvez não estejam disponíveis. [Tratando exceções em Java](https://www.devmedia.com.br/tratando-excecoes-em-java/25514), [Entendendo Java Exceptions](https://www.devmedia.com.br/entendendo-java-exceptions/29812).
