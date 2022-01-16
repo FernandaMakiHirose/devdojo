@@ -59,3 +59,8 @@ As exceções ocorrem quando algo imprevisto acontece, elas podem ser provenient
 
 ## Assertivas
 Verifica valores, caso não seja o valor esperado, lançará um erro. Com o assert, não precisamos na maioria dos casos escrever condicionais gigantes, ele deve sempre ser implementado em métodos privados. [Para habilitá-lo no IntelliJ](https://www.youtube.com/watch?v=kd8L6jS8C3Q&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=78), vá em "Run" - Editar Configurações - VM opções: -ea. [Assertivas em Java](https://www.devmedia.com.br/assertivas-em-java/25835).
+
+## Wrappers
+Se temos Wrappers porque usar os tipos primitivos? Simples, eles são mais rápidos e consomem menos memória, afinal não tem implementação de métodos ou qualquer outro algoritmo complexo que venha a consumir mais tempo da JVM.
+Unboxing Conversion: É quando deseja converter um objeto para um tipo primitivo.
+Autoboxing Conversion: É quando deseja converter um tipo primitivo para um objeto.
