@@ -48,3 +48,8 @@ São classes que nunca podem ser instanciadas, se uma classe tiver um método ab
 
 ## Interfaces
 Todos os métodos são públicos e abstratos, então não é necessário escrever que são públicos e abstratos no método, pois será redundante e todos seus atributos são constantes. É possível implementar uma interface, logo é necessário implementar todos os seus métodos. Interfaces podem ser implementadas mais de uma vez em uma mesma classe. O nome das interfaces precisa sempre terminar com "vel", exemplo: Transportavel, mas caso não consiga, coloque "I" na frente da palavra desejada, exemplo: IFuncionario. Seus métodos não tem corpo, o corpo é definido e moldado quando for implementado. Na UML, a interface é representada: ```<<Interface>>``` e uma seta com linha tracejada.
+
+## Polimorfismo
+É um mesmo método usado em outras classes, e com isso se comportando de forma diferente. 
+Polimorfismo Sobrescrita: a mesma ação, podendo se comportar diferente, com a sobrescrita podemos sobrescrever o método, usar ele e adicionar novas funcionalidades. 
+Polimorfismo Sobrecarga: a mesma operação implementada várias vezes na mesma classe.
