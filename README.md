@@ -73,3 +73,6 @@ A maioria dos métodos da classe Date estão depreciados a partir do Java 7. Ent
 
 ### Expressões Regulares
 Expressão Regular ou Regular Expression, bem como a abreviação RegEx, é um mecanismo poderoso utilizado para manipulação de informações baseadas em cadeias de caracteres, permitindo identificar, de maneira precisa e flexível, dados de interesse por meio de análises de padrões. A pesquisa ou análise de padrões objetiva criar recursos com a finalidade de facilitar a localização e recuperação de informações.
+
+### Resource Bundles
+Usar [resource bundles](https://www.youtube.com/watch?v=sQeG5rgwGIQ&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=97) é pensar em internacionalização, traduzir palavras para outros idiomas. [Criar resource bundles no IntelliJ](https://www.youtube.com/watch?v=OmeH6N4HI8U&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=98).
