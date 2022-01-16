@@ -78,7 +78,7 @@ A maioria dos métodos da classe Date estão depreciados a partir do Java 7. Ent
 Usar [resource bundles](https://www.youtube.com/watch?v=sQeG5rgwGIQ&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=97) é pensar em internacionalização, traduzir palavras para outros idiomas. [Como criar resource bundles no IntelliJ?](https://www.youtube.com/watch?v=OmeH6N4HI8U&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=98)
 
 ### IO
-[Classe File](https://docs.oracle.com/javase/7/docs/api/java/io/package-summary.html) para criar arquivos.
+A [Classe File](https://docs.oracle.com/javase/7/docs/api/java/io/package-summary.html) é usada para criar e manipular arquivos e diretórios. [Documentação](https://docs.oracle.com/javase/7/docs/api/java/io/File.html). 
 
 ### NIO
 [Introdução as novas classes Path, Paths, Files](https://www.javatpoint.com/java-nio).
