@@ -67,3 +67,6 @@ Autoboxing Conversion: É quando deseja converter um tipo primitivo para um obje
 
 ## Strings
 As [strings](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html) são imutáveis. Entre String, String Builder e String Buffer, a mais rápida é a [String Builder](https://docs.oracle.com/javase/7/docs/api/java/lang/StringBuilder.html).
+
+## Date e Calendar
+A maioria dos métodos da classe Date estão depreciados a partir do Java 7. Então, podemos usar o [Calendar](https://docs.oracle.com/javase/7/docs/api/java/util/Calendar.html) (mais completa e simples).
