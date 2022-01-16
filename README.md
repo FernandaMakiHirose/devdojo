@@ -70,3 +70,6 @@ As [strings](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html) s�
 
 ### Date e Calendar
 A maioria dos métodos da classe Date estão depreciados a partir do Java 7. Então, podemos usar o [Calendar](https://docs.oracle.com/javase/7/docs/api/java/util/Calendar.html) (mais completa e simples).
+
+### Expressões Regulares
+Expressão Regular ou Regular Expression, bem como a abreviação RegEx, é um mecanismo poderoso utilizado para manipulação de informações baseadas em cadeias de caracteres, permitindo identificar, de maneira precisa e flexível, dados de interesse por meio de análises de padrões. A pesquisa ou análise de padrões objetiva criar recursos com a finalidade de facilitar a localização e recuperação de informações.
