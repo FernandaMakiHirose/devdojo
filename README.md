@@ -84,7 +84,7 @@ A classe [File](https://docs.oracle.com/javase/7/docs/api/java/io/package-summar
 Introdução as classes [Path, Paths, Files](https://www.youtube.com/watch?v=RX3kPWkuZMQ&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=104).
 
 ### Serialização
-Quando dizemos que um objeto é [serializado](https://www.devmedia.com.br/introducao-a-serializacao-de-objetos/3050), estamos afirmando que este objeto será transformado em bytes, e poderá ser armazenado em disco ou transmitido por um stream. O stream é um objeto de transmissão de dados, onde um fluxo de dados serial é feito através de uma origem e de um destino. Neste artigo vamos descrever dois tipos de stream, o FileOutputStream e o FileInputStream para manipular objetos serializados.
+A [Serialização](https://www.devmedia.com.br/introducao-a-serializacao-de-objetos/3050) é muito usada em frameworks e APIs. A serialização é pegar um objeto e passá-lo por um fluxo de dados, transformando ele em bytes, e poderá ser armazenado em disco ou transmitido por um stream de objeto.
 
 ### Generics
 A motivação de estudar [Generics](https://www.devmedia.com.br/usando-generics-em-java/28981) em Java é de poupar o desenvolvedor de códigos redundantes, como é o caso de casting excessivo. Este foi introduzido desde o Java SE 5.0. Vamos neste artigo abordar os principais usos e especificidades de Generics, para que você leitor possa entender o funcionamento do mesmo e utilizá-lo em seus projetos com maior frequência e facilidade.
