@@ -75,11 +75,10 @@ A maioria dos métodos da classe Date estão depreciados. Então, podemos usar o
 [Expressão Regular](https://www.devmedia.com.br/expressoes-regulares-em-java/21712) ou Regular Expression, bem como a abreviação RegEx, é um mecanismo poderoso utilizado para manipulação de informações baseadas em cadeias de caracteres dentro de um arquivo de texto. [Conceitos básicos sobre Expressões Regulares em Java](https://www.devmedia.com.br/conceitos-basicos-sobre-expressoes-regulares-em-java/27539). Duas classes são utilizadas, [Pattern](https://docs.oracle.com/javase/7/docs/api/java/util/regex/Pattern.html) (procura padrões), [Matcher](https://docs.oracle.com/javase/7/docs/api/java/util/regex/Matcher.html) (encontra padrões) e [String](https://www.w3schools.com/java/java_strings.asp) e [Scanner](https://docs.oracle.com/javase/7/docs/api/java/util/Scanner.html) para trabalhar com tokens e delimitadores. 
 
 ### Resource Bundles
-Usar [resource bundles](https://www.youtube.com/watch?v=sQeG5rgwGIQ&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=97) é pensar em internacionalização, traduzir palavras para outros idiomas. [Como criar resource bundles no IntelliJ?](https://www.youtube.com/watch?v=OmeH6N4HI8U&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=98)
+Usar [resource bundles](https://www.youtube.com/watch?v=sQeG5rgwGIQ&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=97) é pensar em internacionalização, traduzir palavras para outros idiomas. [Para criar](https://www.youtube.com/watch?v=OmeH6N4HI8U&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=98): (Botão Direito) - New - Resource Bundle - (Depois adicione as localizações). A regra para criar o nome é adicionar a língua e o país: `messages_pt_BR.properties`. Para palavras que são iguais em todas as línguas: `messages.properties` e dentro adicionamos a regra de negócio específica. 
 
 ### IO
-A classe [File](https://docs.oracle.com/javase/7/docs/api/java/io/package-summary.html) é usada para criar e manipular arquivos e diretórios. [Documentação](https://docs.oracle.com/javase/7/docs/api/java/io/File.html). 
-
+A classe [File](https://docs.oracle.com/javase/7/docs/api/java/io/package-summary.html) é usada para criar e arquivos, [FileReader](): criar e ler arquivos, [BufferedReader](): otimiza a FileReader, criando um buffer em memória, [FileWriter]: escreve em arquivos, [BufferedReader](): otimiza a FilerWriter. Dica: para copiar o path de um diretório: (Botão Direito) - Copy Path.
 ### NIO
 Introdução as classes [Path, Paths, Files](https://www.youtube.com/watch?v=RX3kPWkuZMQ&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=104).
 
