@@ -104,14 +104,19 @@ O processo de serialização de objetos é bastante utilizado em sistemas distri
   
 - [LinkedList<E>](https://docs.oracle.com/javase/7/docs/api/java/util/LinkedList.html): é uma lista que sempre aponta para o próximo elemento, adicionando elemento no final da lista. É possível percorrer a lista para frente ou para trás e encontrar uma posição na lista leva um tempo proporcional ao tamanho da lista. Os principais benefícios do uso de um LinkedList surgem quando você reutiliza os iteradores existentes para inserir e remover elementos, seus elementos tem mais sobrecarga quanto o ArrayList. 
   
-- [HashMap](https://www.devmedia.com.br/hashmap-java-trabalhando-com-listas-key-value/29811): armazena itens em pares " chave / valor ", e você pode acessá-los por um índice de outro tipo (por exemplo, a String). Assim podemos realizar uma busca rápida pela chave que desejamos, sem precisar percorrer toda lista ou saber o index/posição que desejamos consultar.
-
-- [Comparable](https://docs.oracle.com/javase/8/docs/api/java/lang/Comparable.html): permite comparar elementos, precisa ser implementada na classe desejada, depois fazer a sobrescrita de seu método (dentro dele criar a regra de negócio). Na classe main podemos ordenar os objetos em ordem crescente ou decrescente. Seu uso não é recomendado, porque mexe na classe principal, o certo é usar o Comparator.
+- [Comparable](https://docs.oracle.com/javase/8/docs/api/java/lang/Comparable.html): permite comparar elementos, precisa ser implementado na classe desejada, depois fazer a sobrescrita do método `compareTo` (dentro dele criar a regra de negócio) e na classe main podemos ordenar os objetos Seu uso não é recomendado, porque mexe na classe principal, o certo é usar o Comparator.
   
-- [Comparator](https://docs.oracle.com/javase/8/docs/api/java/util/Comparator.html): permite comparar dois elementos, ordenar na [ordem](https://www.javatpoint.com/Comparator-interface-in-collection-framework) crescente ou decrescente sem mexer na classe principal. A classe principal é criada, depois outras classes para comparação são criadas (também podem ser criadas no método main) e no método main a ordenação é executada).
-- [Busca binária](https://www.devmedia.com.br/implementando-uma-busca-binaria-normal-e-recursiva/2792): retorna o índice do elemento encontrado no método `containsAll()`, enquanto sem busca binária o método retorna `true` ou `false`.
-- No arquivo `ConversaoDeListasArraysTest` você aprende a converter Arrays em List e List em Arrays, em `IteratorTest` como remover elementos da lista com Iterator.  
-- [NabigableMap](https://docs.oracle.com/javase/7/docs/api/java/util/NavigableMap.html): é a mesma coisa que o NavigableSet, mas voltado para o Map.
+- [Comparator](https://docs.oracle.com/javase/8/docs/api/java/util/Comparator.html): precisa ser implementado na classe desejada, depois fazer a sobrescrita do método `compare` (dentro dele criar a regra de negócio, adicionando o `compareTo`) e na classe main podemos ordenar os objetos.
+  
+- [Busca binária](https://www.devmedia.com.br/implementando-uma-busca-binaria-normal-e-recursiva/2792): em coleções e arrays, se um objeto existe na lista, retorna o índice do elemento encontrado no método `containsAll()`, enquanto sem a busca binária o método retorna `true` ou `false`.
+  
+- [Convertendo Arrays em List e List em Arrays](https://www.youtube.com/watch?v=eoNOeBmQprE&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=125), [Removendo elementos da lista com Iterator](https://www.youtube.com/watch?v=r910eaop6Yg&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=126).
+  
+- Map: Contém chave e valor.  
+  - [HashMap](https://www.devmedia.com.br/hashmap-java-trabalhando-com-listas-key-value/29811): armazena itens em pares " chave / valor ", e você pode acessá-los por um índice de outro tipo (por exemplo, a String). Assim podemos realizar uma busca rápida pela chave que desejamos, sem precisar percorrer toda lista ou saber o index/posição que desejamos consultar.
+
+  - [NabigableMap](https://docs.oracle.com/javase/7/docs/api/java/util/NavigableMap.html): adiciona características que o HashMap.
+  
 - [Queue](): Na fila Java, existem muitos métodos que são usados com muita frequência. A interface Queue promove diferentes métodos como insert, delete, peek, etc. 
 - [PriorityQueue](https://docs.oracle.com/javase/7/docs/api/java/util/PriorityQueue.html): Uma fila de prioridade ilimitada baseada em um heap de prioridade. Os elementos da fila de prioridade são ordenados de acordo com sua ordenação natural , ou por uma Comparator fornecida em tempo de construção da fila, dependendo de qual construtor é usado. Uma fila de prioridade não permite nullelementos. Uma fila de prioridade que depende de ordenação natural também não permite a inserção de objetos não comparáveis ​​(isso pode resultar em ClassCastException).  
   
