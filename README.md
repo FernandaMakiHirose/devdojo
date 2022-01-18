@@ -100,7 +100,7 @@ O processo de serialização de objetos é bastante utilizado em sistemas distri
   
   - [TreeSet](https://docs.oracle.com/javase/7/docs/api/java/util/TreeSet.html): O NavigableSet adiciona características que o TreeSet não possui, para inserir um elemento no TreeSet precisa implementar a interface Comparable ou passar o Comparator no construtor do TreeSet. O TreeSet apresenta o SortedSet, então os elementos já vem ordenados, e a complexidade para os métodos add, remove e contains são bem maiores que do HashSet. 
 
-  - [LinkedHashSet](https://docs.oracle.com/javase/7/docs/api/java/util/LinkedHashSet.html): mantém a ordem de inserção, é mais lento que o HashSet, não permite elementos duplicados, não possui índice.
+  - [LinkedHashSet](https://docs.oracle.com/javase/7/docs/api/java/util/LinkedHashSet.html): é um meio termo entre HashSet e TreeSet, ou seja, ela nos proporciona um pouco da performance do HashSet e um pouco do poder de ordenação do TreeSet, mantendo a ordem de inserção.
   
   - [LinkedList<E>](https://docs.oracle.com/javase/7/docs/api/java/util/LinkedList.html): você pode percorrer a lista para frente ou para trás, mas encontrar uma posição na lista leva um tempo proporcional ao tamanho da lista. Os principais benefícios do uso de um LinkedList surgem quando você reutiliza os iteradores existentes para inserir e remover elementos, os elementos tem mais sobrecarga quanto o ArrayList.
  
