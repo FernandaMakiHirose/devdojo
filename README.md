@@ -113,7 +113,7 @@ O processo de serialização de objetos é bastante utilizado em sistemas distri
 - [Convertendo Arrays em List e List em Arrays](https://www.youtube.com/watch?v=eoNOeBmQprE&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=125), [Removendo elementos da lista com Iterator](https://www.youtube.com/watch?v=r910eaop6Yg&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=126).
   
 - Map: Contém chave e valor.  
-  - [HashMap](https://www.devmedia.com.br/hashmap-java-trabalhando-com-listas-key-value/29811): armazena itens em pares " chave / valor ", e você pode acessá-los por um índice de outro tipo (por exemplo, a String). Assim podemos realizar uma busca rápida pela chave que desejamos, sem precisar percorrer toda lista ou saber o index/posição que desejamos consultar.
+  - [HashMap](https://www.devmedia.com.br/hashmap-java-trabalhando-com-listas-key-value/29811): armazena itens em pares " chave / valor ", e você pode acessá-los por um índice de outro tipo (por exemplo, a String). Assim podemos realizar uma busca rápida pela chave que desejamos, sem precisar percorrer toda lista ou saber o index/posição que desejamos consultar, não aceita valores duplicados, quando um valor é duplicado, em vez de ser excluído, é substituído.
 
   - [NabigableMap](https://docs.oracle.com/javase/7/docs/api/java/util/NavigableMap.html): adiciona características que o HashMap.
   
