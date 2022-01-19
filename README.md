@@ -123,7 +123,19 @@ O processo de serialização de objetos é bastante utilizado em sistemas distri
   
 ### Generics
 A motivação de estudar [Generics](https://www.devmedia.com.br/usando-generics-em-java/28981) é poupar o desenvolvedor de códigos redundantes, como é o caso de casting excessivo. Este foi introduzido desde o Java SE 5.0. 
-- Ao passar um Generics para a classe, exemplo: `public class Exemplo<T> {}`, o `T` pode substituir o tipo `String`: `private T nome;`   
+- Ao passar um Generics para a classe, exemplo: `public class Exemplo<T> {}`. O `T` pode substituir o tipo `String`, exemplo: `private T nome;`:
+```
+public class Exemplo<S> {
+
+    private S nome;
+
+    public void aguardar(S nome) {
+        this.nome = nome;
+    }
+
+}
+  
+```
   
 - Wildcard:
   - Aceita receber qualquer lista Cachorro ou superclasse de Cachorro: `public static void consultarCachorrosList(List<? super Cachorro> cachorroList){}`
