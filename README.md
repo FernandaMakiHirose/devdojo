@@ -123,7 +123,8 @@ O processo de serialização de objetos é bastante utilizado em sistemas distri
   
 ### Generics
 A motivação de estudar [Generics](https://www.devmedia.com.br/usando-generics-em-java/28981) é poupar o desenvolvedor de códigos redundantes, como é o caso de casting excessivo. Este foi introduzido desde o Java SE 5.0. 
-- Ao passar um Generics para a classe, podemos substituir o tipo por qualquer letra:
+  
+- Ao passar um Generics para a classe, definimos um tipo genérico, o qual não foi definido ainda:
 ```
 public class Exemplo<S> {
 
@@ -137,7 +138,7 @@ public class Exemplo<S> {
   
 ```
   
-Na classe Main podemos atribuir um tipo:
+Na classe Main atribuímos um tipo:
 ```
 public class Main {
 
@@ -150,6 +151,8 @@ public class Main {
 
 }
 ```
+  
+- Exemplo Herança: [1](https://github.com/cod3rcursos/curso-java/blob/d9d7c80c59453d24dabf2b95b21d212f0bbaf3f1/exercicios/src/generics/CaixaInt.java), [2](https://github.com/cod3rcursos/curso-java/blob/d9d7c80c59453d24dabf2b95b21d212f0bbaf3f1/exercicios/src/generics/CaixaIntTeste.java). 
   
 - Wildcard:
   - Aceita receber qualquer lista Cachorro ou superclasse de Cachorro: `public static void consultarCachorrosList(List<? super Cachorro> cachorroList){}`
