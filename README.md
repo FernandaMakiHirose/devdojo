@@ -159,7 +159,10 @@ public class Main {
 - Comparable - [1](https://github.com/cod3rcursos/curso-java/blob/d9d7c80c59453d24dabf2b95b21d212f0bbaf3f1/exercicios/src/generics/ComparableTeste.java).
 
 ### Classes internas
-Como o próprio nome diz, são [classes](https://www.devmedia.com.br/aprendendo-sobre-classes-internas/15581) que são definidas dentro de outra classe. Sendo que elas tem um relacionamento especial com sua classe externa, em relação as outras classes. Pelo fato de que elas podem acessar os membros privados da classe externa. Para instanciar um classe interna, é necessário(obrigatório) ter uma intância da classe externa, devemos lembrar que também não podem ser definidos membros estáticos.
+Como o próprio nome diz, são [classes](https://www.devmedia.com.br/aprendendo-sobre-classes-internas/15581) que são definidas dentro de outra classe. Sendo que elas tem um relacionamento especial com sua classe externa, em relação as outras classes. Pelo fato de que elas podem acessar os membros privados da classe externa. Para instanciar um classe interna, é necessário (obrigatório) ter uma intância da classe externa, devemos lembrar que também não podem ser definidos membros estáticos.
+  
+### Classes anônimas
+Nada mais é do que a herança de determinada classe em um local exclusivo, ou seja, apenas naquele determinado ponto eu preciso redefinir minha classe-pai. [Classes Anônimas e Aninhadas em Java](https://www.devmedia.com.br/classes-anonimas-e-aninhadas-em-java/31167).
 
 ### JDBC
 JDBC significa Java™ EE Database Connectivity. No desenvolvimento Java EE, esta é uma tecnologia bem conhecida e comumente utilizada para a implementação da interação do banco de dados. JDBC é uma API de nível de chamada, o que significa que as instruções SQL são transmitidas como sequências para a API que, então, se encarrega de executá-las no RDMS. Consequentemente, o valor dessas sequências pode ser alterado no tempo de execução, tornando o JDBC dinâmico. <br>
