@@ -124,8 +124,8 @@ O processo de serialização de objetos é bastante utilizado em sistemas distri
 ### Generics
 A motivação de estudar [Generics](https://www.devmedia.com.br/usando-generics-em-java/28981) é poupar o desenvolvedor de códigos redundantes, como é o caso de casting excessivo. Este foi introduzido desde o Java SE 5.0. 
 - Wildcard:
-  - Aceita receber qualquer classe ou superclasse de Cachorro: `public static void consultarCachorrosList(List<? super Cachorro> cachorroList){}`
-  - Aceita receber qualquer lista que seja de uma subclasse animal: `public static void consultarAnimaisList(List<? extends Animal> animals){}`
+  - Aceita receber qualquer lista Cachorro ou superclasse de Cachorro: `public static void consultarCachorrosList(List<? super Cachorro> cachorroList){}`
+  - Aceita receber qualquer lista que seja de uma subclasse de Animal: `public static void consultarAnimaisList(List<? extends Animal> animals){}`
 
 ### Classes internas
 Como o próprio nome diz, são [classes](https://www.devmedia.com.br/aprendendo-sobre-classes-internas/15581) que são definidas dentro de outra classe. Sendo que elas tem um relacionamento especial com sua classe externa (classe onde ela está definida), em relação as outras classes. Pelo fato de que elas podem acessar os membros privados da classe externa. O que acontece, implicitamente a classe interna tem uma instância da classe externa.
