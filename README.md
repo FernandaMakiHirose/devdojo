@@ -23,36 +23,57 @@
   <a href="https://www.youtube.com/watch?v=ucin9R76150&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=18">Aula 17: Comando break and continue</a> <br>
   <a href="https://www.youtube.com/watch?v=S2d_WfyuNmI&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=19">Aula 18: Arrays parte 1</a> <br>
   <a href="https://www.youtube.com/watch?v=p5PJuCxlzo4&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=20">Aula 19: Arrays parte 2</a> <br>
-  <a href=""></a>
-  <a href=""></a>
-  <a href=""></a>
-  <a href=""></a>
-  <a href=""></a>
-  <a href=""></a>
-  <a href=""></a>
-  <a href=""></a>
-  <a href=""></a>
-  <a href=""></a>
-  <a href=""></a>
-  <a href=""></a>
-  <a href=""></a>
-  <a href=""></a>
-  <a href=""></a>
-  <a href=""></a>
-  <a href=""></a>
-  <a href=""></a>
-  <a href=""></a>
-  <a href=""></a>
-  <a href=""></a>
-  <a href=""></a>
-  <a href=""></a>
-  <a href=""></a>
-  <a href=""></a>
-  <a href=""></a>
-  <a href=""></a>
-  <a href=""></a>
-  <a href=""></a>
-  <a href=""></a>
+  <a href="https://www.youtube.com/watch?v=9zfJqV9TbYQ&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=21">Aula 20: Arrays parte 3 foreach</a>
+  <a href="https://www.youtube.com/watch?v=WFAJyBgPqSI&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=22">Aula 21: Arrays parte 4 arrays multidimensionais</a>
+  <a href="https://www.youtube.com/watch?v=Q7IVkwq7LcM&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=23">Aula 22: Arrays parte 5 arrays multidimencionais</a>
+  <a href="https://www.youtube.com/watch?v=u1Nd4UIGJeI&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=24">Aula 23: Introdução a pacotes</a>
+  <a href="https://www.youtube.com/watch?v=Godi9y-B2aI&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=25">Aula 24: Introdução a classes parte 1</a>
+  <a href="https://www.youtube.com/watch?v=Czlx5lQcW50&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=26">Aula 25: Introdução a classes parte 2 + exercício</a>
+  <a href="https://www.youtube.com/watch?v=BNYNM5hhDHw&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=27">Aula 26: Solução do exercício introdução a classes</a>
+  <a href="https://www.youtube.com/watch?v=GEjFD9qvUVM&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=28">Aula 27: Introdução a métodos</a>
+  <a href="https://www.youtube.com/watch?v=ocBUcd7T65E&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=29">Aula 28: Métodos com parâmetros</a>
+  <a href="https://www.youtube.com/watch?v=ye-cC3bhjlg&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=30">Aula 29: Retorno de métodos parte 01</a>
+  <a href="https://www.youtube.com/watch?v=SGrAPbGUCJo&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=31">Aula 30: Retorno de métodos parte 02</a>
+  <a href="https://www.youtube.com/watch?v=WHd3PRcFbQw&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=32">Aula 31: Métodos com parâmetros tipo reference pt 01</a>
+  <a href="https://www.youtube.com/watch?v=JWukxtWTG7E&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=33">Aula 32: Passagem de objeto como parâmetro e this pt 02</a>
+  <a href="https://www.youtube.com/watch?v=L151aRhoNSM&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=34">Aula 33: Passagem de parâmetros varargs</a>
+  <a href="https://www.youtube.com/watch?v=LXWXkvRIn-k&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=35">Aula 34: Introdução a UML</a>
+  <a href="https://www.youtube.com/watch?v=Qx4-p5fn_rA&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=36">Aula 35: Exercício sobre métodos</a>
+  <a href="https://www.youtube.com/watch?v=IOzQjO4EMxQ&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=37">Aula 36: Modificador de acesso private, get e set pt 01</a>
+  <a href="https://www.youtube.com/watch?v=9MVmEPb7GYc&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=38">Aula 37: Modificador de acesso private, get e set pt 02</a>
+  <a href="https://www.youtube.com/watch?v=uq4O__CGPdo&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=39">Aula 38: Sobrecarga de métodos</a>
+  <a href="https://www.youtube.com/watch?v=IcR84k4NV1M&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=40">Aula 39: Construtores e sobrecarga de construtores pt 01</a>
+  <a href="https://www.youtube.com/watch?v=RufTevo0S0M&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=41">Aula 40: Construtores e sobrecarga de construtores pt 02</a>
+  <a href="https://www.youtube.com/watch?v=TB7mzmjP6WI&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=42">Aula 41: Blocos de inicialização</a>
+  <a href="https://www.youtube.com/watch?v=JFFfIN14oc4&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=43">Aula 42: Modificador static</a>
+  <a href="https://www.youtube.com/watch?v=gsKyd0TmDR0&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=44">Aula 43: Métodos Estáticos</a>
+  <a href="https://www.youtube.com/watch?v=QD3_CfitYDU&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=45">Aula 44: Bloco de inicialização</a>
+  <a href="https://www.youtube.com/watch?v=3OR-8ExlwvA&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=46">Aula 45: UML e Associação de classes</a>
+  <a href="https://www.youtube.com/watch?v=9CXg128aPWY&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=47">Aula 46: Exercício associação pt 01</a>
+  <a href="https://www.youtube.com/watch?v=WTjg9RMJVtI&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=48">Aula 47: Exercício associação pt 02</a>
+  <a href="https://www.youtube.com/watch?v=2blCZZJ3HP4&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=49">Aula 48: Exercício associação de classes pt 03</a>
+  <a href="https://www.youtube.com/watch?v=TKE2Wk_ehks&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=50">Aula 49: Exercício associação pt 04</a>
+  <a href="https://www.youtube.com/watch?v=rN5IgvISCsQ&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=51">Aula 50: Herança pt 01</a>
+  <a href="https://www.youtube.com/watch?v=qSLCdSOh6Nw&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=52">Aula 51: Herança parte 2 e referência super</a>
+  <a href="https://www.youtube.com/watch?v=L46tZj-lZQY&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=53">Aula 52: Herança e Modificador Protected pt 03</a>
+  <a href="https://www.youtube.com/watch?v=1kqsP4F_AGs&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=54">Aula 53: Herança e construtores pt 04</a>
+  <a href="https://www.youtube.com/watch?v=3mslxFro-68&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=55">Aula 54: Herança e Sequência de inicialização pt 05</a>
+  <a href="https://www.youtube.com/watch?v=JXVsUtqP0Ak&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=56">Aula 55: Sobrescrita de métodos</a>
+  <a href="https://www.youtube.com/watch?v=_jmR8SgQr44&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=57">Aula 56: Modificador Final</a>
+  <a href="https://www.youtube.com/watch?v=Gr0-waoTkJc&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=58">Aula 57: Enumeração pt 01</a>
+  <a href="https://www.youtube.com/watch?v=dZKO-Ot1lDI&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=59">Aula 58: Enumeração pt 02</a>
+  <a href="https://www.youtube.com/watch?v=TT_5t9Nfx3M&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=60">Aula 59: Enumeração pt 03</a>
+  <a href="https://www.youtube.com/watch?v=wCvy9BYZE28&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=61">Aula 60: Classes abstratas pt 01</a>
+  <a href="https://www.youtube.com/watch?v=rCnD1McFOU0&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=62">Aula 61: Classes abstratas pt 02</a>
+  <a href="https://www.youtube.com/watch?v=uUGFh9UvXyQ&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=63">Aula 62: Interfaces pt 01</a>
+  <a href="https://www.youtube.com/watch?v=cjEOxxKoJHg&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=64">Aula 63: Interfaces pt 02</a>
+  <a href="https://www.youtube.com/watch?v=Ps2ptq1twyA&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=65">Aula 64: Polimorfismo pt 01</a>
+  <a href="https://www.youtube.com/watch?v=FukH_mIRzV8&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=66">Aula 65: Polimorfismo pt 02</a>
+  <a href="https://www.youtube.com/watch?v=PMFxgfqYYuE&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=67">Aula 66: Polimorfismo pt 03</a>
+  <a href="https://www.youtube.com/watch?v=MO12vFGPbxo&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=68">Aula 67: Exceptions pt 01</a>
+  <a href="https://www.youtube.com/watch?v=eZCGf_lTx0E&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=69">Aula 68: Exceptions pt 02</a>
+  <a href="https://www.youtube.com/watch?v=9xW7o1sIkRE&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=70">Aula 69: Exceptions: Exceções checked pt 03</a>
+  <a href="https://www.youtube.com/watch?v=YzoQMLfY7-c&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=71">Aula 70: Exceptions: lançamento de exceção pt 04</a>
   <a href=""></a>
   <a href=""></a>
   <a href=""></a>
