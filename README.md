@@ -1,4 +1,10 @@
 # Meu estudo no DevDojo
+## Vídeo Aulas 
+<details>
+  <summary>Maratona Dev</summary>
+  <p>[Aula 00: Introdução ao curso](https://www.youtube.com/watch?v=kkOSweUhGZM&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=1)</p>
+</details>
+
 ## Resumo
 ### Encapsulamento
 É a capacidade de esconder complexidade e proteger dados. trabalhamos com encapsulamento da seguinte forma: colocamos o atributo ou método desejado como privado e criamos o get e set como públicos (podemos personalizar a lógica do set) assim outras classes podem chamar os atributos ou métodos, ele evita o acesso direto a propriedade, adicionando uma camada extra de proteção.
@@ -158,15 +164,15 @@ public class Main {
 - Estrutura Chave e Valor - [1](https://github.com/cod3rcursos/curso-java/blob/d9d7c80c59453d24dabf2b95b21d212f0bbaf3f1/exercicios/src/generics/Par.java), [2](https://github.com/cod3rcursos/curso-java/blob/d9d7c80c59453d24dabf2b95b21d212f0bbaf3f1/exercicios/src/generics/Pares.java), [3](https://github.com/cod3rcursos/curso-java/blob/d9d7c80c59453d24dabf2b95b21d212f0bbaf3f1/exercicios/src/generics/ParesTeste.java).
 - Comparable - [1](https://github.com/cod3rcursos/curso-java/blob/d9d7c80c59453d24dabf2b95b21d212f0bbaf3f1/exercicios/src/generics/ComparableTeste.java).
 
-### Classes internas e Classes Internas Estáticas
+### Classes Internas e Classes Internas Estáticas
 Como o próprio nome diz, são [classes](https://www.devmedia.com.br/aprendendo-sobre-classes-internas/15581) que são definidas dentro de outra classe. Sendo que elas tem um relacionamento especial com sua classe externa, em relação as outras classes. Pelo fato de que elas podem acessar os membros privados da classe externa. Para instanciar um classe interna, é necessário (obrigatório) ter uma intância da classe externa, devemos lembrar que também não podem ser definidos membros estáticos. [Classes Internas Estáticas](https://qastack.com.br/programming/7486012/static-classes-in-java).
   
 ### Classes anônimas
 Nada mais é do que a herança de determinada classe em um local exclusivo, ou seja, apenas naquele determinado ponto eu preciso redefinir minha classe-pai. [Classes Anônimas e Aninhadas em Java](https://www.devmedia.com.br/classes-anonimas-e-aninhadas-em-java/31167).
 
 ### JDBC
-JDBC significa Java™ EE Database Connectivity. No desenvolvimento Java EE, esta é uma tecnologia bem conhecida e comumente utilizada para a implementação da interação do banco de dados. JDBC é uma API de nível de chamada, o que significa que as instruções SQL são transmitidas como sequências para a API que, então, se encarrega de executá-las no RDMS. Consequentemente, o valor dessas sequências pode ser alterado no tempo de execução, tornando o JDBC dinâmico. <br>
-Embora os programas JDBC sejam executados mais lentamente do que seus equivalentes SQLJ, uma vantagem dessa abordagem é um conceito conhecido como Escreva uma vez, chame em qualquer lugar. Isso significa que, como nenhuma interação é necessária até o tempo de execução, um programa JDBC é bastante móvel e pode ser levado entre diferentes sistemas, com gastos mínimos.
+JDBC significa Java™ EE Database Connectivity. JDBC, é uma API de nível de chamada, o que significa que as instruções SQL são transmitidas como sequências para a API que, então, se encarrega de executá-las no RDMS. Consequentemente, o valor dessas sequências pode ser alterado no tempo de execução, tornando o JDBC dinâmico. <br>
+Embora os programas JDBC sejam executados mais lentamente do que seus equivalentes SQLJ, uma vantagem dessa abordagem é um conceito conhecido como Escreva uma vez, chame em qualquer lugar. Isso significa que, como nenhuma interação é necessária até o tempo de execução, um programa JDBC é bastante móvel e pode ser levado entre diferentes sistemas, com gastos mínimos. [Implementando JDBC](https://github.com/cod3rcursos/curso-java/tree/d9d7c80c59453d24dabf2b95b21d212f0bbaf3f1/exercicios/src/jdbc).
 
 ### Threads
 [Threads](https://www.w3schools.com/java/java_threads.asp) permitem que um programa opere de forma mais eficiente fazendo várias coisas ao mesmo tempo. Os threads podem ser usados para executar tarefas complicadas em segundo plano sem interromper o programa principal.
