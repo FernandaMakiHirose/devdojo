@@ -3,26 +3,26 @@
 
 <details>
   <summary>Maratona Dev</summary>
-  <a href="https://www.youtube.com/watch?v=kkOSweUhGZM&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=1">Aula 00: Introdução ao curso</a>
-  <a href="https://www.youtube.com/watch?v=DlZJw7TXj2g&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=2">Aula 01: Como JAVA funciona</a>
-  <a href="https://www.youtube.com/watch?v=TcqICLuUuyA&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=3">Aula 02: Como instalar JAVA no windows</a>
-  <a href="https://www.youtube.com/watch?v=eV3mj1LOJqE&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=4">Aula 03: Executando o processo de compilação manualmente</a>
-  <a href="https://www.youtube.com/watch?v=blYNhqo7yhk&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=5">Aula 04: Download do ambiente de desenvolvimento</a>
-  <a href="https://www.youtube.com/watch?v=g-_NSf0e0z8&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=6">Aula 05: Tipos primitivos, convenções de código e comentários</a>
-  <a href="https://www.youtube.com/watch?v=SuXQg5voVuY&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=7">Aula 06: Continuação tipos primitivos, exercício e operadores</a>
-  <a href="https://www.youtube.com/watch?v=GRAKRcbzEpo&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=8">Aula 07: Operador resto e operadores de comparação</a>
-  <a href="https://www.youtube.com/watch?v=8dlThWq56DM&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=9">Aula 08: Operadores Lógicos</a>
-  <a href="https://www.youtube.com/watch?v=hp1iYAoywc8&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=10">Aula 09: Operadores de Atribuição</a>
-  <a href="https://www.youtube.com/watch?v=JwNYr5HBYkI&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=11">Aula 10: Controle de fluxo if, else if e else</a>
-  <a href="https://www.youtube.com/watch?v=Ea71ar8V8LI&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=12">Aula 11: Controle de fluxo: Tabela verdade e mais.</a>
-  <a href="https://www.youtube.com/watch?v=IBCxBaX9zhw&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=13">Aula 12: Controle de fluxo Resolução do exercício if else</a>
-  <a href="https://www.youtube.com/watch?v=2vngkzInOEo&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=14">Aula 13: Controle de fluxo switch e exercícios</a>
-  <a href="https://www.youtube.com/watch?v=wtkPdOzewDQ&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=15">Aula 14: Controle de fluxo - Solução do exercício</a>
-  <a href="https://www.youtube.com/watch?v=bAqBN-_Iqs8&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=16">Aula 15: Controle de fluxo for, while, do while</a>
-  <a href="https://www.youtube.com/watch?v=AR8I88rmyzg&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=17">Aula 16: Exercício estrutura de repetição</a>
-  <a href="https://www.youtube.com/watch?v=ucin9R76150&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=18">Aula 17: Comando break and continue</a>
-  <a href="https://www.youtube.com/watch?v=S2d_WfyuNmI&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=19">Aula 18: Arrays parte 1</a>
-  <a href="https://www.youtube.com/watch?v=p5PJuCxlzo4&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=20">Aula 19: Arrays parte 2</a>
+  <a href="https://www.youtube.com/watch?v=kkOSweUhGZM&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=1">Aula 00: Introdução ao curso</a> <br>
+  <a href="https://www.youtube.com/watch?v=DlZJw7TXj2g&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=2">Aula 01: Como JAVA funciona</a> <br>
+  <a href="https://www.youtube.com/watch?v=TcqICLuUuyA&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=3">Aula 02: Como instalar JAVA no windows</a> <br>
+  <a href="https://www.youtube.com/watch?v=eV3mj1LOJqE&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=4">Aula 03: Executando o processo de compilação manualmente</a> <br>
+  <a href="https://www.youtube.com/watch?v=blYNhqo7yhk&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=5">Aula 04: Download do ambiente de desenvolvimento</a> <br>
+  <a href="https://www.youtube.com/watch?v=g-_NSf0e0z8&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=6">Aula 05: Tipos primitivos, convenções de código e comentários</a> <br>
+  <a href="https://www.youtube.com/watch?v=SuXQg5voVuY&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=7">Aula 06: Continuação tipos primitivos, exercício e operadores</a> <br>
+  <a href="https://www.youtube.com/watch?v=GRAKRcbzEpo&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=8">Aula 07: Operador resto e operadores de comparação</a> <br>
+  <a href="https://www.youtube.com/watch?v=8dlThWq56DM&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=9">Aula 08: Operadores Lógicos</a> <br>
+  <a href="https://www.youtube.com/watch?v=hp1iYAoywc8&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=10">Aula 09: Operadores de Atribuição</a> <br>
+  <a href="https://www.youtube.com/watch?v=JwNYr5HBYkI&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=11">Aula 10: Controle de fluxo if, else if e else</a> <br>
+  <a href="https://www.youtube.com/watch?v=Ea71ar8V8LI&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=12">Aula 11: Controle de fluxo: Tabela verdade e mais.</a> <br>
+  <a href="https://www.youtube.com/watch?v=IBCxBaX9zhw&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=13">Aula 12: Controle de fluxo Resolução do exercício if else</a> <br>
+  <a href="https://www.youtube.com/watch?v=2vngkzInOEo&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=14">Aula 13: Controle de fluxo switch e exercícios</a> <br>
+  <a href="https://www.youtube.com/watch?v=wtkPdOzewDQ&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=15">Aula 14: Controle de fluxo - Solução do exercício</a> <br>
+  <a href="https://www.youtube.com/watch?v=bAqBN-_Iqs8&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=16">Aula 15: Controle de fluxo for, while, do while</a> <br>
+  <a href="https://www.youtube.com/watch?v=AR8I88rmyzg&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=17">Aula 16: Exercício estrutura de repetição</a> <br>
+  <a href="https://www.youtube.com/watch?v=ucin9R76150&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=18">Aula 17: Comando break and continue</a> <br>
+  <a href="https://www.youtube.com/watch?v=S2d_WfyuNmI&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=19">Aula 18: Arrays parte 1</a> <br>
+  <a href="https://www.youtube.com/watch?v=p5PJuCxlzo4&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=20">Aula 19: Arrays parte 2</a> <br>
   <a href=""></a>
   <a href=""></a>
   <a href=""></a>
