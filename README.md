@@ -3,7 +3,7 @@
 
 <details>
   <summary>Maratona Dev</summary>
-  <a href="https://www.youtube.com/watch?v=kkOSweUhGZM&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=1">Aula 00: Introdução ao curso</a>
+  - <a href="https://www.youtube.com/watch?v=kkOSweUhGZM&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=1">Aula 00: Introdução ao curso</a>
 </details>
 
 ## Resumo
