@@ -158,8 +158,8 @@ public class Main {
 - Estrutura Chave e Valor - [1](https://github.com/cod3rcursos/curso-java/blob/d9d7c80c59453d24dabf2b95b21d212f0bbaf3f1/exercicios/src/generics/Par.java), [2](https://github.com/cod3rcursos/curso-java/blob/d9d7c80c59453d24dabf2b95b21d212f0bbaf3f1/exercicios/src/generics/Pares.java), [3](https://github.com/cod3rcursos/curso-java/blob/d9d7c80c59453d24dabf2b95b21d212f0bbaf3f1/exercicios/src/generics/ParesTeste.java).
 - Comparable - [1](https://github.com/cod3rcursos/curso-java/blob/d9d7c80c59453d24dabf2b95b21d212f0bbaf3f1/exercicios/src/generics/ComparableTeste.java).
 
-### Classes internas
-Como o próprio nome diz, são [classes](https://www.devmedia.com.br/aprendendo-sobre-classes-internas/15581) que são definidas dentro de outra classe. Sendo que elas tem um relacionamento especial com sua classe externa, em relação as outras classes. Pelo fato de que elas podem acessar os membros privados da classe externa. Para instanciar um classe interna, é necessário (obrigatório) ter uma intância da classe externa, devemos lembrar que também não podem ser definidos membros estáticos.
+### Classes internas e Classes Internas Estáticas
+Como o próprio nome diz, são [classes](https://www.devmedia.com.br/aprendendo-sobre-classes-internas/15581) que são definidas dentro de outra classe. Sendo que elas tem um relacionamento especial com sua classe externa, em relação as outras classes. Pelo fato de que elas podem acessar os membros privados da classe externa. Para instanciar um classe interna, é necessário (obrigatório) ter uma intância da classe externa, devemos lembrar que também não podem ser definidos membros estáticos. [Classes Internas Estáticas](https://qastack.com.br/programming/7486012/static-classes-in-java).
   
 ### Classes anônimas
 Nada mais é do que a herança de determinada classe em um local exclusivo, ou seja, apenas naquele determinado ponto eu preciso redefinir minha classe-pai. [Classes Anônimas e Aninhadas em Java](https://www.devmedia.com.br/classes-anonimas-e-aninhadas-em-java/31167).
