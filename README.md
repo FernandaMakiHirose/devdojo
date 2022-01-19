@@ -157,10 +157,6 @@ public class Main {
 - Métodos - [1](https://github.com/cod3rcursos/curso-java/blob/d9d7c80c59453d24dabf2b95b21d212f0bbaf3f1/exercicios/src/generics/ListaUtil.java), [2](https://github.com/cod3rcursos/curso-java/blob/d9d7c80c59453d24dabf2b95b21d212f0bbaf3f1/exercicios/src/generics/ListaUtilTeste.java).
 - Estrutura Chave e Valor - [1](https://github.com/cod3rcursos/curso-java/blob/d9d7c80c59453d24dabf2b95b21d212f0bbaf3f1/exercicios/src/generics/Par.java), [2](https://github.com/cod3rcursos/curso-java/blob/d9d7c80c59453d24dabf2b95b21d212f0bbaf3f1/exercicios/src/generics/Pares.java), [3](https://github.com/cod3rcursos/curso-java/blob/d9d7c80c59453d24dabf2b95b21d212f0bbaf3f1/exercicios/src/generics/ParesTeste.java).
 - Comparable - [1](https://github.com/cod3rcursos/curso-java/blob/d9d7c80c59453d24dabf2b95b21d212f0bbaf3f1/exercicios/src/generics/ComparableTeste.java).
-  
-- Wildcard:
-  - Aceita receber qualquer lista Cachorro ou superclasse de Cachorro: `public static void consultarCachorrosList(List<? super Cachorro> cachorroList){}`
-  - Aceita receber qualquer lista que seja de uma subclasse de Animal, o extend não permite adicionar objetos na lista: `public static void consultarAnimaisList(List<? extends Animal> animals){}`
 
 ### Classes internas
 Como o próprio nome diz, são [classes](https://www.devmedia.com.br/aprendendo-sobre-classes-internas/15581) que são definidas dentro de outra classe. Sendo que elas tem um relacionamento especial com sua classe externa (classe onde ela está definida), em relação as outras classes. Pelo fato de que elas podem acessar os membros privados da classe externa. O que acontece, implicitamente a classe interna tem uma instância da classe externa.
