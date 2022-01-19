@@ -156,6 +156,7 @@ public class Main {
 - Herança 2 - Precisa Estender obrigatóriamente números [1](https://github.com/cod3rcursos/curso-java/blob/d9d7c80c59453d24dabf2b95b21d212f0bbaf3f1/exercicios/src/generics/CaixaNumero.java), [2](https://github.com/cod3rcursos/curso-java/blob/d9d7c80c59453d24dabf2b95b21d212f0bbaf3f1/exercicios/src/generics/CaixaNumeroTeste.java).
 - Métodos - [1](https://github.com/cod3rcursos/curso-java/blob/d9d7c80c59453d24dabf2b95b21d212f0bbaf3f1/exercicios/src/generics/ListaUtil.java), [2](https://github.com/cod3rcursos/curso-java/blob/d9d7c80c59453d24dabf2b95b21d212f0bbaf3f1/exercicios/src/generics/ListaUtilTeste.java).
 - Estrutura Chave e Valor - [1](https://github.com/cod3rcursos/curso-java/blob/d9d7c80c59453d24dabf2b95b21d212f0bbaf3f1/exercicios/src/generics/Par.java), [2](https://github.com/cod3rcursos/curso-java/blob/d9d7c80c59453d24dabf2b95b21d212f0bbaf3f1/exercicios/src/generics/Pares.java), [3](https://github.com/cod3rcursos/curso-java/blob/d9d7c80c59453d24dabf2b95b21d212f0bbaf3f1/exercicios/src/generics/ParesTeste.java).
+- Comparable - [1](https://github.com/cod3rcursos/curso-java/blob/d9d7c80c59453d24dabf2b95b21d212f0bbaf3f1/exercicios/src/generics/ComparableTeste.java).
   
 - Wildcard:
   - Aceita receber qualquer lista Cachorro ou superclasse de Cachorro: `public static void consultarCachorrosList(List<? super Cachorro> cachorroList){}`
