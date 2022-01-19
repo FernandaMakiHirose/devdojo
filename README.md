@@ -122,7 +122,10 @@ O processo de serialização de objetos é bastante utilizado em sistemas distri
 - [PriorityQueue](https://docs.oracle.com/javase/7/docs/api/java/util/PriorityQueue.html): Uma fila de prioridade ilimitada baseada em um heap de prioridade. Os elementos da fila de prioridade são ordenados de acordo com sua ordenação natural, ou por uma Comparator fornecida em tempo de construção da fila, dependendo de qual construtor é usado. Uma fila de prioridade não permite nullelementos. Uma fila de prioridade que depende de ordenação natural também não permite a inserção de objetos não comparáveis (isso pode resultar em ClassCastException).  
   
 ### Generics
-A motivação de estudar [Generics](https://www.devmedia.com.br/usando-generics-em-java/28981) em Java é de poupar o desenvolvedor de códigos redundantes, como é o caso de casting excessivo. Este foi introduzido desde o Java SE 5.0. Vamos neste artigo abordar os principais usos e especificidades de Generics, para que você leitor possa entender o funcionamento do mesmo e utilizá-lo em seus projetos com maior frequência e facilidade.
+A motivação de estudar [Generics](https://www.devmedia.com.br/usando-generics-em-java/28981) é poupar o desenvolvedor de códigos redundantes, como é o caso de casting excessivo. Este foi introduzido desde o Java SE 5.0. 
+- Wildcard:
+  - Aceita receber qualquer classe ou superclasse de Cachorro: `public static void consultarCachorrosList(List<? super Cachorro> cachorroList){}`
+  - Aceita receber qualquer lista que seja de uma subclasse animal: `public static void consultarAnimaisList(List<? extends Animal> animals){}`
 
 ### Classes internas
 Como o próprio nome diz, são [classes](https://www.devmedia.com.br/aprendendo-sobre-classes-internas/15581) que são definidas dentro de outra classe. Sendo que elas tem um relacionamento especial com sua classe externa (classe onde ela está definida), em relação as outras classes. Pelo fato de que elas podem acessar os membros privados da classe externa. O que acontece, implicitamente a classe interna tem uma instância da classe externa.
