@@ -1,10 +1,9 @@
 # Meu estudo no DevDojo
 ## Vídeo Aulas 
-<details>
-  <summary>Maratona Dev</summary>
-  [Aula 00: Introdução ao curso](https://www.youtube.com/watch?v=kkOSweUhGZM&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=1)
-</details>
 
+  <summary>Maratona Dev</summary>
+  - [Aula 00: Introdução ao curso](https://www.youtube.com/watch?v=kkOSweUhGZM&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&index=1)
+  -
 ## Resumo
 ### Encapsulamento
 É a capacidade de esconder complexidade e proteger dados. trabalhamos com encapsulamento da seguinte forma: colocamos o atributo ou método desejado como privado e criamos o get e set como públicos (podemos personalizar a lógica do set) assim outras classes podem chamar os atributos ou métodos, ele evita o acesso direto a propriedade, adicionando uma camada extra de proteção.
