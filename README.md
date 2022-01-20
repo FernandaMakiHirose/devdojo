@@ -391,6 +391,9 @@ Embora os programas JDBC sejam executados mais lentamente do que seus equivalent
 ### Concorrência
 O pacote Concurrent, ajuda a resolver o problema de concorrência em Threads. Concorrência é sobre a execução sequencial e disputada de um conjunto de tarefas independentes. Escalonadores preemptivos favorecem a concorrência pausando e resumindo tarefas para que todas tenham a oportunidade de serem executadas.
   
+## Streams
+Para resolver esses problemas, o Java 8 introduziu o conceito de stream que permite ao desenvolvedor processar dados de forma declarativa e alavancar a arquitetura multicore sem a necessidade de escrever nenhum código específico para ela. [Streams](https://www.tutorialspoint.com/streams-in-java).
+  
 ### CompletableFuture
 Um [CompletableFuture](https://www.javatpoint.com/completablefuture-in-java) é usado para programação assíncrona. Programação assíncrona significa escrever código sem bloqueio. Ele executa uma tarefa em um encadeamento separado do encadeamento do aplicativo principal e notifica o encadeamento principal sobre seu progresso, conclusão ou falha.
 Dessa forma, o thread principal não bloqueia ou espera a conclusão da tarefa. Outras tarefas são executadas em paralelo. O paralelismo melhora o desempenho do programa.
