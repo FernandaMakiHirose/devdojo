@@ -387,3 +387,11 @@ Embora os programas JDBC sejam executados mais lentamente do que seus equivalent
 
 ### Threads
 [Threads](https://www.w3schools.com/java/java_threads.asp) permitem que um programa opere de forma mais eficiente fazendo várias coisas ao mesmo tempo. Os threads podem ser usados para executar tarefas complicadas em segundo plano sem interromper o programa principal. [Trabalhando com Threads em Java](https://www.devmedia.com.br/trabalhando-com-threads-em-java/28780).
+
+### Concorrência
+O pacote Concurrent, ajuda a resolver o problema de concorrência em Threads. Concorrência é sobre a execução sequencial e disputada de um conjunto de tarefas independentes. Escalonadores preemptivos favorecem a concorrência pausando e resumindo tarefas para que todas tenham a oportunidade de serem executadas.
+  
+### CompletableFuture
+Um CompltableFuture é usado para programação assíncrona. Programação assíncrona significa escrever código sem bloqueio. Ele executa uma tarefa em um encadeamento separado do encadeamento do aplicativo principal e notifica o encadeamento principal sobre seu progresso, conclusão ou falha.
+Dessa forma, o thread principal não bloqueia ou espera a conclusão da tarefa. Outras tarefas são executadas em paralelo. O paralelismo melhora o desempenho do programa.
+Um CompletableFuture é uma classe em Java. Pertence ao pacote java.util.cocurrent. Ele implementa a interface CompletionStage e Future.
