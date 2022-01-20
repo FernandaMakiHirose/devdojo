@@ -394,4 +394,7 @@ O pacote Concurrent, ajuda a resolver o problema de concorrência em Threads. Co
 ### CompletableFuture
 Um [CompletableFuture](https://www.javatpoint.com/completablefuture-in-java) é usado para programação assíncrona. Programação assíncrona significa escrever código sem bloqueio. Ele executa uma tarefa em um encadeamento separado do encadeamento do aplicativo principal e notifica o encadeamento principal sobre seu progresso, conclusão ou falha.
 Dessa forma, o thread principal não bloqueia ou espera a conclusão da tarefa. Outras tarefas são executadas em paralelo. O paralelismo melhora o desempenho do programa.
+  
+### DateTime
+É uma classe, onde podemos criar fusos horários, apresenta a expressão como "Today", "Tommorow" ou "Yesterday", o valor da data é determinado usando a configuração de data atual no Domino ®. [DateTime](https://help.hcltechsw.com/dom_designer/11.0.1/basic/H_NOTESDATETIME_CLASS_JAVA.html).
 Um CompletableFuture é uma classe em Java. Pertence ao pacote java.util.cocurrent. Ele implementa a interface CompletionStage e Future.
