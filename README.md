@@ -391,7 +391,7 @@ Embora os programas JDBC sejam executados mais lentamente do que seus equivalent
 ### Concorrência
 O pacote Concurrent, ajuda a resolver o problema de concorrência em Threads. Concorrência é sobre a execução sequencial e disputada de um conjunto de tarefas independentes. Escalonadores preemptivos favorecem a concorrência pausando e resumindo tarefas para que todas tenham a oportunidade de serem executadas.
   
-## Streams
+### Streams
 Para resolver esses problemas, o Java 8 introduziu o conceito de stream que permite ao desenvolvedor processar dados de forma declarativa e alavancar a arquitetura multicore sem a necessidade de escrever nenhum código específico para ela. [Streams](https://www.tutorialspoint.com/streams-in-java).
   
 ### CompletableFuture
