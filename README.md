@@ -400,4 +400,4 @@ Um [CompletableFuture](https://www.javatpoint.com/completablefuture-in-java) é 
 Dessa forma, o thread principal não bloqueia ou espera a conclusão da tarefa. Outras tarefas são executadas em paralelo. O paralelismo melhora o desempenho do programa.
   
 ### DateTime
-É uma classe de datas, é a mais atualizada e recomendada de se utilizar (em 2022) 
+É uma classe de datas, é a mais atualizada e recomendada de se utilizar em 2022. [LocalDate](https://docs.oracle.com/javase/8/docs/api/java/time/LocalDate.html), [Instant](https://docs.oracle.com/javase/8/docs/api/java/time/Instant.html).
